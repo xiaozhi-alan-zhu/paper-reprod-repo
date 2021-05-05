@@ -8,5 +8,6 @@ Pytorch, Networkx, Pytorch-Geometric
 ## Currently implemented:
 
 1. Node2vec
+2. Vanilla GCN
 
 ## Todo:
